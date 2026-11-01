@@ -1,0 +1,5 @@
+Model,Validation RMSE,Settings
+Linear Regression,0.509640260118115,Default
+k-NN,0.5137759126434825,{'knn__n_neighbors': 120}
+Random Forest,0.5145151838277121,"{'max_depth': 5, 'min_samples_leaf': 20}"
+Decision Tree,0.5269121559205684,{'max_depth': 5}
